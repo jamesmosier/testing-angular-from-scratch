@@ -1,0 +1,23 @@
+{
+  "name": "testing-angular-from-scratch",
+  "version": "0.0.1",
+  "authors": [
+    "James Mosier <jamesdmosier@gmail.com>"
+  ],
+  "description": "PluralSight course on testing AngularJS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine": "~2.3.4",
+    "angular": "~1.4.0",
+    "bootstrap": "~3.3.4",
+    "angular-mocks": "~1.4.0"
+  }
+}

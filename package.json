@@ -1,0 +1,12 @@
+{
+    "name": "testing-angular-from-scratch",
+    "version": "0.0.1",
+    "private": true,
+    "description": "PluralSight course on testing AngularJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "James Mosier",
+    "license": "MIT"
+}
